@@ -3,5 +3,6 @@ console.log(7 / 0) //retorna tipo Infinito
 console.log("10" / 2)
 // retorna que não é um numero
 console.log("Show" / 2)
-
-console.log(0.1 + 0.7)
+console.log(0.1 + 0.7) //impreciso
+// console.log(10.toString()) erro
+console.log(10.345.toFixed(2))
